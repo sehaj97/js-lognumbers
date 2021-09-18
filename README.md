@@ -1,3 +1,4 @@
+https://sehaj97.github.io/js-lognumbers/
 # Iteration Random
 
 In this activity, you will use a `for` loop and `Math.random()` to log random numbers in the browser console.
@@ -13,6 +14,3 @@ In this activity, you will use a `for` loop and `Math.random()` to log random nu
 ## Hint(s)
 
 `Math.random()` returns a decimal (or _floating point_) number. How will you convert it to a whole number?
-
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
